@@ -275,7 +275,7 @@ def open1():
 
 def about1():
     messagebox.showinfo(
-        'developed by', 'Mohammed Mahmoud 622910\nYassen Barakat 622908\nKaream Elnagaar 622913\nYossef Mahmoud 622917 ')
+        'developed by', 'Mohammed Mahmoud\nYassen Barakat \nKaream Elnagaar \nYossef Mahmoud \Eslam Ahmed')
 
 
 def about2():
